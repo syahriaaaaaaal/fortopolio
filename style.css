@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Patrick Hand', monoscape, cursive;
+    src: url(Font/PatrickHand-Regular.ttf);
+  }
+  
+  .jumbotron {
+    padding-top: 6rem;
+    background-color: #e4f804;
+  }
+  
+  #logohamster {
+    width: 150px;
+    background-color: #ffffff;
+    border-color: #bb0606;
+    border-width: 2px;
+  }
+  
+  #project {
+    background-color: #00e5ff;
+  }
+  footer {
+    background-color: #009dae;
+    padding-top: 3rem;
+  }
